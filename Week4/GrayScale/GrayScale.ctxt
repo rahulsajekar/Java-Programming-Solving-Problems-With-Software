@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GrayScale
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ grayScaleFilter(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ testGrayScaleFilter()
+comment3.params=
+comment3.target=void\ testManyGrayScale()
+numComments=4
